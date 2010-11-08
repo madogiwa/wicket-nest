@@ -7,7 +7,7 @@
     <application.version>1.0</application.version>
     <java-compiler.version>1.5</java-compiler.version>
     <junit.version>4.4</junit.version>
-    <wicket.version>[1.4,)</wicket.version>
+    <wicket.version>1.4.13</wicket.version>
   </properties>
 
   <groupId>org.madogiwa</groupId>
